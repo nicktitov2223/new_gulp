@@ -1,0 +1,20 @@
+{
+  "name": "new_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicktitov2223/new_gulp.git"
+  },
+  "keywords": [],
+  "author": "Nick Titov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicktitov2223/new_gulp/issues"
+  },
+  "homepage": "https://github.com/nicktitov2223/new_gulp#readme"
+}
